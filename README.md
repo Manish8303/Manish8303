@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://x.com/manishsingh8303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishsingh8303" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manish-singh-106379313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/sharad_p_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharad_p_singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharad_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharad_p" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manishsingh8303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishsingh8303" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/manishsingh8303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishsingh8303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
