@@ -67,9 +67,18 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish8303&show_icons=true&locale=en&layout=compact" alt="manish8303" /></p>
+<!-- Most Used Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish8303&show_icons=true&locale=en&layout=compact" alt="Manish8303" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish8303&show_icons=true&locale=en" alt="manish8303" /></p>
+<!-- GitHub Stats -->
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish8303&show_icons=true&locale=en" alt="Manish8303" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish8303&" alt="manish8303" /></p>
- 
+<!-- GitHub Streak -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish8303" alt="Manish8303" />
+</p>
+
