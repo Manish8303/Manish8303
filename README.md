@@ -78,7 +78,5 @@
 </p>
 
 <!-- GitHub Streak -->
-<p>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Manish8303" alt="GitHub Streak" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharad-pratap&" alt="sharad-pratap" /></p>
 
