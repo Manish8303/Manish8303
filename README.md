@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://manish-singh.github.io/](https://github.com/Manish8303)
 
-- 💬 Ask me about **MERN,C++**
+- 💬 Ask me about **MERN**
 
-- 📫 How to reach me **sharadpratap40@gmail.com**
+- 📫 How to reach me **manishsingh8303@gmail.com**
 
-- ⚡ Fun fact **Yes I am weird, weird is good. Normal is overrated.**
+- ⚡ Fun fact **I break things just to fix them better.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
