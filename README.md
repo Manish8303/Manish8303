@@ -78,5 +78,5 @@
 </p>
 
 <!-- GitHub Streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish8303&" alt="Manish8303" /></p>
+<p><img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Manish8303&" alt="Manish8303" /></p>
 
