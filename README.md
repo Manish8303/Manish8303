@@ -9,7 +9,7 @@
 
 - 🌱 I’m continuous learner **MERN Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://sharad-pratap.github.io/](https://sharad-pratap.github.io/)
+- 👨‍💻 All of my projects are available at [https://manish-singh.github.io/](https://github.com/Manish8303)
 
 - 💬 Ask me about **MERN,C++**
 
