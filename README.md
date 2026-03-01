@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://Sharad-Pratap.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://github.com/Manish8303)
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
